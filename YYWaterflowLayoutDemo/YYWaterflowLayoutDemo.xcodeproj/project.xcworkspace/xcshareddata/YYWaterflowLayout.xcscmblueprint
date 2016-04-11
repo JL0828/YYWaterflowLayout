@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "49B72E38D324207B25F9460499607B28B0B98B77",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "49B72E38D324207B25F9460499607B28B0B98B77" : 0,
+    "56CBFB4DA5447E6BD53B743E6F9041DC34AA0145" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2CB21131-AD30-4C08-AFFE-B27A2ACE1A0C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "49B72E38D324207B25F9460499607B28B0B98B77" : "YYWaterflowLayout\/",
+    "56CBFB4DA5447E6BD53B743E6F9041DC34AA0145" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YYWaterflowLayout",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YYWaterflowLayoutDemo\/YYWaterflowLayout.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/marychenyuan\/YYWaterflowLayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49B72E38D324207B25F9460499607B28B0B98B77"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/marychenyuan\/oh-my-zsh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "56CBFB4DA5447E6BD53B743E6F9041DC34AA0145"
+    }
+  ]
+}
